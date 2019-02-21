@@ -25,6 +25,9 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
-
+  ],
+  "devDependencies": {
+    "react-animate-on-scroll": "^2.1.5",
+    "styled-components": "^4.1.3"
+  }
 }
